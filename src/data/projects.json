@@ -5,6 +5,7 @@
       "description": "This project aims to create a comprehensive vehicle care platform that allows users to manage their vehicle servicing needs efficiently. Users can view service details, prices, and categories, schedule appointments, maintain service records, receive reminders, make secure payments, track expenses, and share reviews.",
       "skills": ["React", "Express", "Node","MongoDB"],
       "demo": "https://capstoneprojectadhidhya.netlify.app/login",
-      "source": "https://github.com/adhidhyaRP/CAPSTONEFE.git"
+      "source": "https://github.com/adhidhyaRP/CAPSTONEFE.git",
+      "server": "https://capstoneprojectadhidhya.onrender.com"
     }
   ]
