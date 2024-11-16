@@ -1,11 +1,38 @@
 [
-    {
-      "title": "Vehicle Care Platform",
-      "imageSrc": "projects/project.png",
-      "description": "This project aims to create a comprehensive vehicle care platform that allows users to manage their vehicle servicing needs efficiently. Users can view service details, prices, and categories, schedule appointments, maintain service records, receive reminders, make secure payments, track expenses, and share reviews.",
-      "skills": ["React", "Express", "Node","MongoDB"],
-      "demo": "https://capstoneprojectadhidhya.netlify.app/login",
-      "source": "https://github.com/adhidhyaRP/CAPSTONEFE.git",
-      "server": "https://capstoneprojectadhidhya.onrender.com"
-    }
-  ]
+  {
+    "title": "Vehicle Care Platform",
+    "imageSrc": "projects/project.png",
+    "description": "A web platform designed to streamline vehicle care and servicing. Users can manage their service appointments, view pricing and categories, maintain service history, receive reminders, make secure payments, track vehicle-related expenses, and share reviews for better decision-making.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://capstoneprojectadhidhya.netlify.app/login",
+    "source": "https://github.com/adhidhyaRP/CAPSTONEFE.git",
+    "server": "https://capstoneprojectadhidhya.onrender.com"
+  },
+  {
+    "title": "Books Central Library",
+    "imageSrc": "projects/project.png",
+    "description": "A modern library management system that enables users to browse a vast collection of books, reserve them, track their reading progress, and leave reviews. Designed for book enthusiasts and library administrators to enhance user engagement and operational efficiency.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://bookcentraladhidhya.netlify.app",
+    "source": "https://github.com/adhidhyaRP/bookcentral.git",
+    "server": "https://bookcentraladhidhya.onrender.com"
+  },
+  {
+    "title": "Pizza Cafe",
+    "imageSrc": "projects/project.png",
+    "description": "An online pizza ordering system that allows customers to explore various pizza options, customize their orders, manage their cart, and make payments securely. The platform ensures a seamless and delightful ordering experience for pizza lovers.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://pizzaappadhidhya.netlify.app",
+    "source": "https://github.com/adhidhyaRP/pizzaapp.git",
+    "server": "https://pizzaappadhidhya.onrender.com"
+  },
+  {
+    "title": "Tech Edge",
+    "imageSrc": "projects/project.png",
+    "description": "A blogging platform built for tech enthusiasts to share articles, tutorials, and industry insights. Users can create posts, manage content, engage with the community through comments, and explore trending tech topics.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://blogappadhidhya.netlify.app",
+    "source": "https://github.com/adhidhyaRP/blogappadhidhya.git",
+    "server": "https://blogappadhidhya.onrender.com"
+  }
+]
